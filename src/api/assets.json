@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "name": "JALIN - Real Time Data Streaming untuk Back Office - Confluent",
+    "description": "Kubernetes, Jenkins, Rest API, Micro Services",
+    "type": "POC",
+    "status": "Active",
+    "version": "v1",
+    "techStack": ["Java","Confluent","Kubernetes","Gitea","Jenkins"],
+    "category": "Data Platform",
+    "repoCount": 1,
+    "docCount": 0,
+    "createdAt": "2025-12-01T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "name": "BCA - Merchant Summary - Couchbase",
+    "description": "Merchant Summary Use Cases POC using Couchbase for BCA",
+    "type": "POC",
+    "status": "Active",
+    "version": "v1",
+    "techStack": ["Couchbase","Javascript"],
+    "category": "Data Platform",
+    "repoCount": 1,
+    "docCount": 0,
+    "createdAt": "2025-11-20T10:00:00Z"
+  },
+  {
+    "id": "3",
+    "name": "BRI - Big Data Expansion",
+    "description": "Migration HBase, Expansion Datalake, CDS + CML",
+    "type": "Document",
+    "status": "Active",
+    "version": "v1",
+    "techStack": ["HBase","Datalake"],
+    "category": "Data Platform",
+    "repoCount": 0,
+    "docCount": 4,
+    "createdAt": "2025-10-01T10:00:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Customer Profile",
+    "description": "Customer Profile Use Cases menggunakan Couchbase dengan Backend Golang dan UI JavaScript",
+    "type": "Demo",
+    "status": "Active",
+    "version": "v1",
+    "techStack": ["JavaScript","Golang","Couchbase","Docker"],
+    "category": "Data Platform",
+    "repoCount": 2,
+    "docCount": 0,
+    "createdAt": "2025-09-01T10:00:00Z"
+  },
+  {
+    "id": "5",
+    "name": "On Premise Analytics",
+    "description": "Analytics on prem",
+    "type": "Demo",
+    "status": "In Development",
+    "version": "v0.9",
+    "techStack": ["Python","Spark"],
+    "category": "Analytics",
+    "repoCount": 0,
+    "docCount": 1,
+    "createdAt": "2025-07-01T10:00:00Z"
+  }
+]
